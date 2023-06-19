@@ -10,6 +10,9 @@ node_modules
 /ssr.*js
 /actionnode_modules
 *.map
+/src/compiler/compile/internal_ex/ssr.*js
+/actionnode_modules
+*.map
 /src/compiler/compile/internal_exports.ts
 /compiler.d.ts
 /compiler.*js
