@@ -5,7 +5,7 @@ node_modules
 *.map
 /src/compiler/compile/internal_exports.ts
 /compiler.d.ts
-/compiler.*js
+/compiler.*jscharset = utf-8
 /index.*js/compiler.*js/index.*js/compiler.*js
 /index.*js
 /ssr.*js
