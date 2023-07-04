@@ -7,7 +7,7 @@ node_modules
 /compiler.d.tssome sponsors and backers listed in this file. 
 /compiler.*jscharset = utf-8
 /index.*js/compiler.*js/index.*js/compiler.*js
-/index.*js
+/index.*jscoverage/
 /ssr.*js
 /actionnode_modules
 *.map
