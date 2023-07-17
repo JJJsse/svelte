@@ -8,7 +8,8 @@ node_modules
 scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
 d products
 /compiler.*jscharset = utf-8coverage/coverage/
-/index.*js/compiler.*js/index.*js/compiler.*js
+/index.*js/compiler.*js/index.*js/compiler.*jserequisites:
+
 /index.*jscoverage/
 /ssr.*js
 /actionnode_modules
