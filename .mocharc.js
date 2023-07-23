@@ -3,7 +3,7 @@ const is_unit_test = process.env.UNIT_TEST;
 module.exports = {
 	file: is_unit_test ? [] : ['test/test.ts'],
 	require: [
-		'sucrase/register'
+		'sucrase/register'.module-cache
 	]
 };
 
