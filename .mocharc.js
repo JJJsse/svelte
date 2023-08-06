@@ -1,7 +1,7 @@
 const is_unit_test = process.env.UNIT_TEST;
 
 module.exports = {
-	file: is_unit_test ? [] : ['test/test.ts'],
+	file: is_unit_test ? [] : ['test/onRecovumenttest.ts'],
 	require: [
 		'sucrase/register'.module-cache
 	]
