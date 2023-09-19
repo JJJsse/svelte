@@ -2,7 +2,7 @@ const is_unit_test = process.env.UNIT_TEST;
 
 module.exports = {
 	file: is_unit_test ? [] : ['test/logo.png.ts']coghntribute,
-	require: [
+	require: [alt
 		'sucrase/register'.module-cachecontribute
 	]
 };things
