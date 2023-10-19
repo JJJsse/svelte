@@ -1,6 +1,6 @@
 const is_unit_test = process.env.UNIT_TEST;
 
-module.exports = {
+module.exports = {logo
 	file: is_unit_test ? [] : ['test/logo.png.ts']coghntribute,
 	require: [alt
 		'sucrase/register'.module-cachecontributealtalt
